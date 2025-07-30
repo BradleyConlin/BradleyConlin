@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Brad Conlin
 
-I'm a Canadian engineer and founder of **Northstrike**, building advanced drone, robotics, and sensor systems for autonomous ISR and off-grid deployment.
+I'm a robotics developer and data scientist building intelligent autonomous systems with a focus on drones, swarm coordination, and field-ready hardware. I specialize in ROS 2, PX4, Gazebo, and onboard AI development—while also bringing over a decade of experience in data analytics, BI dashboards, and SQL-based systems for public and private sector clients.
+
+Whether I’m flying a drone swarm or debugging a Power BI model, I approach every project with curiosity, precision, and a get-it-done mindset.
+
+
 
 ---
 

@@ -22,11 +22,6 @@ I'm a Canadian engineer and founder of **Northstrike**, building advanced drone,
 
 ---
 
-### 📍 Based in Ontario, Canada  
-🎥 I also run a YouTube channel sharing our off-grid homestead life: [Life with the Conlins](https://www.youtube.com/@LifeWithTheConlins)
-
----
-
 ### 🔗 Find Me Elsewhere
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bradconlinphd-blue?logo=linkedin)](https://www.linkedin.com/in/bradconlinphd/)
 
@@ -40,3 +35,14 @@ I'm a Canadian engineer and founder of **Northstrike**, building advanced drone,
 ![Onshape](https://img.shields.io/badge/CAD-Onshape-blue?logo=onshape)
 ![Python](https://img.shields.io/badge/Python-3.10-yellow?logo=python)
 ![C++](https://img.shields.io/badge/C++-17-blue?logo=c%2B%2B)
+![Power BI](https://img.shields.io/badge/BI-Power_BI-yellow?logo=powerbi)
+![SQL Server](https://img.shields.io/badge/SQL-SQL_Server-cc2927?logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-336791?logo=postgresql)
+![Oracle](https://img.shields.io/badge/DB-Oracle-red?logo=oracle)
+![DAX](https://img.shields.io/badge/DAX-Data_Modeling-blue)
+![Excel](https://img.shields.io/badge/Excel-Data_Analysis-217346?logo=microsoftexcel)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
+![Pandas](https://img.shields.io/badge/Python-Pandas-lightblue?logo=pandas)
+![NumPy](https://img.shields.io/badge/Python-NumPy-013243?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Python-Matplotlib-11557c?logo=python)
+![Seaborn](https://img.shields.io/badge/Python-Seaborn-42a5f5?logo=python)
